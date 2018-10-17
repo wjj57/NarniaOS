@@ -1,2 +1,2 @@
 # Dragon
-OS implementation 
+The implementation of an OS.
