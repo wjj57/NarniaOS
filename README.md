@@ -6,3 +6,5 @@
 
 # 参考（Reference）
 > * [os-tutorial](https://github.com/cfenollosa/os-tutorial)
+> * [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/) [Linux 内核揭密 - github](https://github.com/MintCN/linux-insides-zh)
+> *
