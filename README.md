@@ -5,8 +5,10 @@
 Linux作为优秀的开源操作系统，其最早期版本(0.0.1)非常值得学习，故此项目是以Linux的0.0.1版本为最重要的基础，在学习和研究此版本的代码基础上加以自己的想法和设计而实现的。
 
 ## 附录
-[Linux 内核的版本图](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8#%E7%89%88%E6%9C%AC%E5%88%97%E8%A1%A8)
+
 <img height="300px" src="https://github.com/Lvsi-China/NarniaOS/raw/master/extra/images/Linux-kernel-version.png">
+
+[Linux 内核的版本图](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8#%E7%89%88%E6%9C%AC%E5%88%97%E8%A1%A8)
 
 ## 参考（Reference）
 * [os-tutorial](https://github.com/cfenollosa/os-tutorial)
